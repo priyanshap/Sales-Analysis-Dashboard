@@ -22,6 +22,7 @@ Interactive Filters:
 **Region/Product/Customer Filters:** Slicers to filter the data by region, product, or customer.
 
 
-
+## Preview
+![image](https://github.com/priyanshap/Sales-Analysis-Dashboard/assets/158167690/ec3e50bb-0981-4e52-ba13-74fffac42467)
 
 
